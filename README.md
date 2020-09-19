@@ -5,4 +5,4 @@ Data Visualization
 A display of my factor model for my Visualize Yourself project.
 
 
-!(C:\Users\chelr\Documents\Factor_model_practice.jpg "Neck Pain Factor Model")
+![alt text](C:\Users\chelr\Documents\Factor_model_practice.jpg "Neck Pain Factor Model")

@@ -5,4 +5,4 @@ Data Visualization
 A display of my factor model for my Visualize Yourself project.
 
 
-![alt text](C:\Users\chelr\GitHub_CCAC\factor_model.jpg)
+![factor model](factor_model.jpg)

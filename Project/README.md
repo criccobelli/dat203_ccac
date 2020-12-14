@@ -5,7 +5,7 @@ For years now I have been experiencing frequent pain in my neck and shoulders. A
 
 ## Methodology
 
-I used a notebood to record my data every day, and then about once a week I transfered the data to an Excel file. I rated my neck pain based on the worst I felt throughout the day. If I rated it a 2 initially and then it felt worse later, I would change to 3 or 4. I made up a scale of how I rated my neck pain:
+I used a notebook to record my data every day, and then about once a week I transfered the data to an Excel file. I rated my neck pain based on the worst I felt throughout the day. If I rated it a 2 initially and then it felt worse later, I would change to 3 or 4. I made up a scale of how I rated my neck pain:
 
 ![scale](pic1.PNG)
 
